@@ -19,7 +19,7 @@ git clone https://github.com/dilawrenzo77/FrontendPractice-Landing-Page.git
 
 2. Navigate into the project directory:
 ```
-cd zeusmusic
+cd pratice1
 ```
 
 3. Install all the necessary Dependencies:
