@@ -1,0 +1,50 @@
+.navBar {
+    background-color: rgba(161, 158, 158, 0.447);
+    padding: 1rem;
+    border: none;
+    border-radius: 2rem;
+    width: 25rem;
+    height: auto;
+}
+.navItems {
+    margin: 0.5rem 2.5rem;
+}
+.navItems:hover {
+    background-color: white;
+    border: 0.6rem solid white;
+    border-radius: 2rem;
+    width: 2rem;
+    height: 2rem;
+    transition: 0.5s;
+    
+}
+.introText {
+    font-size: xx-large;
+    font-weight: 800;
+    margin-top: 200px;
+    margin-bottom: 40px;
+    line-height: 3rem;
+    text-align: center;
+}
+.navItems2 {
+    margin: 0.5rem 2.5rem;
+    background-color: rgba(161, 158, 158, 0.447);
+    cursor: pointer;
+    border-radius: 2rem;
+    padding: 0.5rem;
+}
+.navItems2:hover {
+    background-color: #fff;
+    transition: 0.5s;
+    border: 0.6rem solid black;
+    width: 2rem;
+    height: 2rem;
+}
+.intro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
