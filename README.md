@@ -3,7 +3,7 @@
 This Landing page template was gotten from FRONTENDPRACTICE.COM projects.
 
 
-![Project Design Overview]("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Zrems0YnN6eGN6aWt6cnE1MnJmc3liejNxcXM1eGtleTMzaXNyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aEBIPLGFIExo0nLm06/giphy.gif" "gif")
+![Project Design Overview](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Zrems0YnN6eGN6aWt6cnE1MnJmc3liejNxcXM1eGtleTMzaXNyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aEBIPLGFIExo0nLm06/giphy.gif "gif")
 
 
 ## Acknowledgement
